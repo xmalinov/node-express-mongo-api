@@ -16,6 +16,9 @@
     "mongodb": "*"
   },
   "devDependencies": {
+    "eslint": "*",
+    "eslint-config-airbnb-base": "*",
+    "eslint-plugin-import": "*",
     "nodemon": "*"
   }
 }
